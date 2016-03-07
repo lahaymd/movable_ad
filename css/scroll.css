@@ -1,0 +1,8 @@
+#motoad {display:block;position: relative; background: repeating-radial-gradient(
+      circle at 0 0, 
+      red,
+      green 5px
+    );
+width: 200px;padding:10px;}
+#content { height:1000px;}
+p {width:450px; }h2 {width:460px;}
